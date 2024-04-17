@@ -9,9 +9,22 @@ I am a seasoned technology professional with a rich background in software devel
 
 In addition to my technical skills, I am also a proactive problem-solver who thrives in challenging environments. I am a self-starter that has brought to resolution complex problems with only a high level steer needed. I have quickly adapted to new technologies and frameworks, and am committed to continuous learning and improvement. I possess strong communication skills and a collaborative approach that make me an effective team player and leader.
 
-You can find my CV [here](https://cv.crisboarna.com/).
+You can find my CV [here](https://cv.crisboarna.com/). 
+
+A blog post on how I built my CV can be found [here](https://blog.engineermindscape.com/p/building-and-deploying-a-react-cv).
 
 ## Some of my work
+### Browser Extensions
+#### Focusly
+<div>
+<a href="https://chromewebstore.google.com/detail/focusly-active-focused-ta/gphpkhlmamgiodhpkbpnffaieandbkih?hl=en">
+  <img src="./images/shield-chrome.png"/>
+</a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/focusly-active-focused-tabs">
+  <img src="./images/shield-firefox.png" />
+</a>
+</div>
+
 ### Packages
 #### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"  alt="npm" width="20" height="20"/> NPM
 - [aws-cdk-lib-util](https://www.npmjs.com/package/aws-cdk-lib-util)
@@ -48,16 +61,18 @@ You can find my CV [here](https://cv.crisboarna.com/).
 - [Flutter](https://flutter.dev/)
 
 #### Blog Posts
-- [Accessing isolated network estate on AWS: Part 1 - Bastion Host](https://blog.engineermindscape.com/p/accessing-isolated-network-estate)
-- [Accessing isolated network estate on AWS: Part 2 - AWS Systems Manager Session Manager](https://blog.engineermindscape.com/p/accessing-isolated-network-estate-9d0)
-- [Accessing isolated network estate on AWS: Part 3 - ECS Fargate Host](https://blog.engineermindscape.com/p/accessing-isolated-network-estate-692)
-- [Accessing isolated network estate on AWS: Part 4 - VPN](https://blog.engineermindscape.com/p/accessing-isolated-network-estate-597)
+- [Unlocking the Doors: Navigating many AWS ECS Containers with ECS Exec Command](https://blog.engineermindscape.com/p/unlocking-the-doors-navigating-many)
+- [Mastering Emergency Access: How to Configure a Breakglass Fargate Docker Container for Root-Level EFS Access](https://blog.engineermindscape.com/p/mastering-emergency-access-how-to)
+- [From Zero to Hero: Deploying a Full-Stack monorepo with Web, API, and IaC in Just 5 Minutes](https://blog.engineermindscape.com/p/from-zero-to-hero-deploying-a-full)
+- [Working around the AWS ECS Task Definition 65536 byte limit](https://blog.engineermindscape.com/p/working-around-the-aws-ecs-task-definition)
+- [Building and Deploying a React CV on AWS S3 with TypeScript: A Deep Dive into Headless Chromium with Puppeteer, AWS CDK, Custom Lambda Docker Runtimes and GitHub Actions](https://blog.engineermindscape.com/p/building-and-deploying-a-react-cv)
+- [Locally Testing Custom AWS Lambda Runtime Containers with Runtime Emulator Sidecar](https://blog.engineermindscape.com/p/locally-testing-custom-aws-lambda)
 
 #### Certifications
 - [AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/9b4001aa-a680-4bbb-acb6-4c31661f3738)
 - [AWS Certified DevOps Engineer - Professional](https://www.credly.com/badges/0bdcd1c8-fdee-4196-a69b-0a83b4d9ec5d)
 - [AWS Certified Big Data Specialty](https://www.credly.com/badges/d5aeb678-6d1b-456a-90d0-4b034d4f1928)
-- [CNCF Kubernetes Certified Application Developer](https://www.cncf.io/certification/ckad/) (Pending 2023)
+- [CNCF Kubernetes Certified Application Developer](https://www.cncf.io/certification/ckad/) (Pending 2024)
 
 ## Skills
 ### 💅🏻 Languages
@@ -71,6 +86,7 @@ You can find my CV [here](https://cv.crisboarna.com/).
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="30" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="30" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="kotlin" width="30" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="35"/>
 </p>
@@ -91,9 +107,9 @@ You can find my CV [here](https://cv.crisboarna.com/).
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" alt="gatsbyjs" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg" alt="gatsbyjs" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="35" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="35" height="35" />
 </p>
 
 ### 🔨 Tools
