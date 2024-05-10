@@ -43,6 +43,7 @@ A blog post on how I built my CV can be found [here](https://blog.engineermindsc
 - [lambda-dynamodb](https://registry.terraform.io/modules/crisboarna/lambda-dynamodb/aws/latest)
 - [lambda-invoke](https://registry.terraform.io/modules/crisboarna/lambda-invoke/aws/latest)
 #### <img src="./images/raycast.png" alt="raycast" width="20" height="20"/> Raycast
+- [Hugging Face](https://www.raycast.com/crisboarna/hugging-face)
 - [Microsoft Azure](https://www.raycast.com/crisboarna/microsoft-azure)
 - [Browser History](https://www.raycast.com/crisboarna/browser-history)
 - [Mozilla Firefox](https://www.raycast.com/crisboarna/mozilla-firefox)
@@ -50,6 +51,7 @@ A blog post on how I built my CV can be found [here](https://blog.engineermindsc
 - [Opera](https://www.raycast.com/crisboarna/opera)
 - [Iridium](https://www.raycast.com/crisboarna/iridium)
 - [OpenStreetMap Search](https://www.raycast.com/crisboarna/openstreetmap-search)
+- [Microsoft Teams](https://www.raycast.com/sven/microsoft-teams) (contributor)
 - [Amazon AWS](https://www.raycast.com/Falcon/aws) (contributor)
 - [Brave](https://www.raycast.com/Codely/brave) (contributor)
 - [Google Chrome](https://www.raycast.com/Codely/google-chrome) (contributor)
